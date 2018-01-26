@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="consultas-rafael-rest-dummy:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="gestion-productos-rest.war">
+      <element id="artifact" artifact-name="consultas-rafael-rest-dummy:war exploded" />
+    </root>
+  </artifact>
+</component>
