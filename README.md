@@ -8,7 +8,7 @@ Uso
 
 Clonar fuente
 
-$ git clone ssh://git@200.14.166.249:7999/gen/generator-spring-bch.git
+$ git clone https://github.com/RafaelCCF/gestion-productos-rest/
 $ cd gestion-productos-rest
 
 $ mvn clean install
